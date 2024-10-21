@@ -4,5 +4,5 @@ Supported by Clausewitz Engine (CWTools).
 This works are owned by achandramdl, all the gamearts and graphic designs created by achandramdl.
 
 Changelog
-  Version 0.1
-  *adds a custom for human species's flag.
+  >Version 0.1
+  > - adds a custom for human species's flag.
